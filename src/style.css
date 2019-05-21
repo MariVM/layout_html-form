@@ -11,6 +11,6 @@ label {
   width: 65px;
 }
 
-fieldset label:last-child {
+label:last-child {
   margin-bottom: 0;
 }
